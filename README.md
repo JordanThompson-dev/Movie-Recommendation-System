@@ -27,6 +27,9 @@ Pandas (assumed for handling movie datasets)
 
 Similarity search (e.g., content-based filtering or collaborative filtering depending on find_similar_movies() logic)
 
+TFIDF Matrix to help identify similiar searches
+
+
 📦 Example Use Case
 You type "Grumpier Old Men" → the app finds it instantly → recommends several similar comedies or related movies you might enjoy!
 
